@@ -1,0 +1,33 @@
+{
+  "name": "kashoot",
+  "version": "1.0.0",
+  "description": "A kahoot flooder/bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/respecting/kashoot.git"
+  },
+  "keywords": [
+    "kahoot",
+    "flooder",
+    "flooder",
+    "bot",
+    "kahoot",
+    "javascript",
+    "kahoot.js-updated",
+    "js"
+  ],
+  "author": "respecting @ github",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/respecting/kashoot/issues"
+  },
+  "homepage": "https://github.com/respecting/kashoot#readme",
+  "dependencies": {
+    "kahoot.js-updated": "^2.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
