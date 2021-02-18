@@ -1,0 +1,11 @@
+{
+    "useConfig": false,
+    "pin": "9000141",
+    "name": "abc",
+    "amount": "100",
+    "joinTimeout": "100",
+    "nameBypass": "n",
+    "autoReconnect": "n",
+    "antiBot": "y",
+    "__comment": "Name bypass, setting a name, bot join time, and auto reconnect will be disabled if antibot is on."
+}

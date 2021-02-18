@@ -27,7 +27,11 @@
   },
   "homepage": "https://github.com/respecting/kashoot#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "kahoot.js-updated": "^2.4.0",
+    "node-fetch": "^2.6.1",
+    "ora": "^5.3.0",
+    "random-name": "^0.1.2",
     "readline-sync": "^1.4.10"
   }
 }
